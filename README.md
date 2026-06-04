@@ -169,7 +169,33 @@ The application will automatically generate a sorted output PDF.
 * Cloud Storage Integration
 
 ---
+## 🌐 Live Demo
 
+Try the project here:
+
+https://labelsorter.netlify.app/
+
+---
+
+## 🏛 System Architecture
+
+User Uploads PDF
+       │
+       ▼
+ PDF Processing Engine
+       │
+       ▼
+ SKU Extraction (Regex)
+       │
+       ▼
+ SKU Grouping Logic
+       │
+       ▼
+ PDF Reordering Engine
+       │
+       ▼
+ Sorted Output PDF
+---
 ## 👨‍💻 Author
 
 **Vedant Vijay**
