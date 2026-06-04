@@ -156,25 +156,6 @@ The application will automatically generate a sorted output PDF.
 * Shipping Label Management
 * Bulk Order Fulfillment
 * Dispatch Automation
-
----
-
-## 📸 Screenshots
-
-Add screenshots here:
-
-### Input PDF
-
-![Input Screenshot](screenshots/input.png)
-
-### Processing Output
-
-![Processing Screenshot](screenshots/process.png)
-
-### Sorted PDF Result
-
-![Output Screenshot](screenshots/output.png)
-
 ---
 
 ## 🚀 Future Enhancements
